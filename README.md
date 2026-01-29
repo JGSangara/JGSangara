@@ -1,4 +1,4 @@
-# Hi there, I'm Josphat G. Sangara 👋
+# Hi there, I'm Josphat Sangara 👋
 
 ## About Me
 I am a **Backend Developer & Data Analyst** passionate about building efficient systems and transforming data into actionable insights. I love exploring new technologies and solving real-world problems through code and data.
