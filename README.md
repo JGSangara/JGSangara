@@ -27,16 +27,16 @@ I am a **Backend Developer & Data Analyst** passionate about building efficient 
 
 ## How to Reach Me
 <p align="left">
-  <a href="https://josphat.tech" target="blank">
+  <a href="https://josphat.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-josphat.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/josphat-g-sangara-b0b78380" target="blank">
+  <a href="https://www.linkedin.com/in/josphat-sangara-b0b78380" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:josphat.gitogo@gmail.com" target="blank">
+  <a href="mailto:josphat.sangara@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://x.com/JosphatGitogo" target="blank">
+  <a href="https://x.com/JosphatSangara" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
