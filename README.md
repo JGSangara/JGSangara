@@ -1,6 +1,7 @@
 # Hi there, I'm Josphat Sangara 👋
 
 ## About Me
+
 I am a **Backend Developer & Data Analyst** passionate about building efficient systems and transforming data into actionable insights. I love exploring new technologies and solving real-world problems through code and data.
 
 - 🔭 I'm currently working on **Data Analytics Dashboards and REST APIs**
@@ -10,6 +11,7 @@ I am a **Backend Developer & Data Analyst** passionate about building efficient 
 - ⚡ Fun fact: **I can analyze 500K+ records and still have time for coffee!**
 
 ## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -26,17 +28,8 @@ I am a **Backend Developer & Data Analyst** passionate about building efficient 
 </p>
 
 ## How to Reach Me
-<p align="left">
-  <a href="https://josphat.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-josphat.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/josphat-sangara-b0b78380" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:josphat.sangara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/JosphatSangara" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-josphat.tech-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josphat.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josphat-sangara-b0b78380)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josphat.sangara@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JosphatSangara)
