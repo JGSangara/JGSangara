@@ -4,7 +4,7 @@
 
 I am a **Data Analyst & Backend Developer** passionate about transforming data into actionable insights and building efficient systems. I love exploring new technologies and solving real-world problems through data analysis and code.
 
-- 🔭 I'm currently working on **Data Analytics Dashboards and Business Intelligence Projects**
+- 🔭 I'm currently working on **Data Analytics Dashboards, BI Projects, and Python Backend APIs**
 - 🌱 I'm currently learning **Advanced Power BI, Python for Data Science & FastAPI**
 - 👯 I'm looking to collaborate on **Data Analytics Projects and Open-Source Tools**
 - 💬 Ask me about **SQL, Power BI, Excel Analytics, Django, and REST APIs**
